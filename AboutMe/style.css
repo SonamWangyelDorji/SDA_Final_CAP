@@ -1,0 +1,460 @@
+.about-me {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 1);
+  background: linear-gradient(
+    180deg,
+    rgb(31, 32, 44) 44.8%,
+    rgba(9.95, 10.9, 22.31, 0.86) 81.68%,
+    rgba(5.64, 7.33, 27.63, 0.78) 99.79%
+  );
+}
+
+.about-me .element {
+  position: absolute;
+  width: 400px;
+  height: 250px;
+  top: 76px;
+  left: 50px;
+  object-fit: cover;
+}
+
+.about-me .text-wrapper {
+  position: absolute;
+  width: 229px;
+  top: 377px;
+  left: 100px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-me .HTML {
+  position: absolute;
+  width: 185px;
+  height: 71px;
+  top: 555px;
+  left: 91px;
+}
+
+.about-me .div {
+  position: absolute;
+  width: 90px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-me .div-2 {
+  position: absolute;
+  width: 174px;
+  height: 30px;
+  top: 41px;
+  left: 9px;
+}
+
+.about-me .img {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.about-me .img-2 {
+  left: 36px;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  object-fit: cover;
+}
+
+.about-me .img-3 {
+  left: 72px;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  object-fit: cover;
+}
+
+.about-me .img-4 {
+  left: 108px;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  object-fit: cover;
+}
+
+.about-me .img-5 {
+  left: 144px;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  object-fit: cover;
+}
+
+.about-me .figma {
+  position: absolute;
+  width: 185px;
+  height: 82px;
+  top: 655px;
+  left: 91px;
+}
+
+.about-me .text-wrapper-2 {
+  position: absolute;
+  width: 81px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-me .UI-star {
+  position: absolute;
+  width: 174px;
+  height: 30px;
+  top: 52px;
+  left: 9px;
+}
+
+.about-me .python {
+  position: absolute;
+  width: 185px;
+  height: 71px;
+  top: 455px;
+  left: 91px;
+}
+
+.about-me .overlap {
+  position: absolute;
+  width: 702px;
+  height: 351px;
+  top: 125px;
+  left: 552px;
+}
+
+.about-me .who-am-i {
+  position: absolute;
+  width: 702px;
+  height: 351px;
+  top: 0;
+  left: 0;
+}
+
+.about-me .text-wrapper-3 {
+  position: absolute;
+  width: 199px;
+  height: 47px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-me .flexcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  width: 698px;
+  height: 249px;
+  top: 102px;
+  left: 0;
+}
+
+.about-me .text {
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.about-me .span {
+  color: #ffffff;
+}
+
+.about-me .text-wrapper-4 {
+  color: #61ff68;
+}
+
+.about-me .leetcode-link {
+  position: absolute;
+  width: 98px;
+  height: 36px;
+  top: 252px;
+  left: 309px;
+}
+
+.about-me .overlap-group {
+  position: relative;
+  width: 96px;
+  height: 36px;
+}
+
+.about-me .leet-code {
+  position: absolute;
+  width: 96px;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.about-me .text-wrapper-5 {
+  position: absolute;
+  width: 96px;
+  top: -1px;
+  left: 2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+  white-space: nowrap;
+  opacity: 0;
+}
+
+.about-me .text-wrapper-6 {
+  position: absolute;
+  width: 83px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.about-me .kaggle-link {
+  position: absolute;
+  width: 77px;
+  height: 46px;
+  top: 217px;
+  left: 569px;
+}
+
+.about-me .overlap-2 {
+  position: relative;
+  width: 75px;
+  height: 46px;
+}
+
+.about-me .kaggle {
+  position: absolute;
+  width: 66px;
+  height: 35px;
+  top: 0;
+  left: 2px;
+}
+
+.about-me .text-wrapper-7 {
+  position: absolute;
+  top: -1px;
+  left: -10px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+  white-space: nowrap;
+  opacity: 0;
+}
+
+.about-me .text-wrapper-8 {
+  position: absolute;
+  width: 75px;
+  top: 4px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 35px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.about-me .fact {
+  position: absolute;
+  width: 775px;
+  height: 288px;
+  top: 496px;
+  left: 489px;
+}
+
+.about-me .fun-fact-about-me {
+  position: absolute;
+  width: 199px;
+  height: 47px;
+  top: 0;
+  left: 63px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-me .p {
+  position: absolute;
+  width: 771px;
+  top: 67px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+}
+
+.about-me .overlap-3 {
+  position: absolute;
+  width: 377px;
+  height: 24px;
+  top: 28px;
+  left: 873px;
+}
+
+.about-me .headers-in-projects {
+  position: absolute;
+  width: 286px;
+  height: 22px;
+  top: 0;
+  left: 0;
+}
+
+.about-me .projects {
+  position: absolute;
+  width: 95px;
+  height: 20px;
+  top: 2px;
+  left: 190px;
+}
+
+.about-me .text-wrapper-9 {
+  position: absolute;
+  width: 95px;
+  height: 20px;
+  top: 7px;
+  left: 370px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-me .text-wrapper-9:hover{
+  color: orange;
+}
+
+.about-me .home {
+  position: absolute;
+  width: 95px;
+  height: 20px;
+  top: 0;
+  left: 0;
+}
+
+.about-me .text-wrapper-10 {
+  position: absolute;
+  width: 95px;
+  top: 10px;
+  left: 350px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-me .text-wrapper-10:hover{
+  color: orange;
+}
+
+.about-me .div-wrapper {
+  height: 20px;
+  top: 0;
+  left: 95px;
+  position: absolute;
+  width: 95px;
+}
+
+.about-me .contact {
+  position: absolute;
+  width: 100px;
+  height: 22px;
+  top: 10px;
+  left: 660px;
+}
+
+.about-me .text-wrapper-11 {
+  position: absolute;
+  width: 100px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-me .text-wrapper-11:hover {
+  color: orange;
+}
